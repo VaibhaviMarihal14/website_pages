@@ -1,0 +1,41 @@
+body{
+	background-color: 	#DC143C;
+}
+#col {
+	color: blue;
+	margin-left: 10px;
+	font-size: 18px;
+}
+
+#k {
+	margin-top: 10%;
+	background-color: white;
+	margin: auto;
+	border: 2px dotted red;
+	padding: 20px;
+	color: #8B0000;
+}
+
+#head {
+	margin-top: 3%;
+	margin-left: 40%;
+	margin-right: 40%;
+
+}
+
+#tit {
+	font-size: 20px;
+	color: black;
+}
+.footer {
+	margin-top: 10%;
+   	position: bottom;
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	background-color: #1E90FF;
+   	color: white;
+   	text-align: center;
+}
+
+
